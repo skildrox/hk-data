@@ -32,7 +32,7 @@
 
     {"id": 5,
     "nom": "Mangeur d'Âme",
-    "imagecharme" :"../image-charme/mangeur-d'ame.webp",
+    "imagecharme" :"../image-charme/mangeur-d_ame.webp",
     "description" :"Augmente grandement la quantité d'ÂME régénérée en attaquant un ennemie avec l'aiguillon.",
     "emplacement" :4},
 
@@ -98,7 +98,7 @@
 
     {"id": 16,
     "nom": "Tourmenteur d'Âme",
-    "imagecharme" :"../image-charme/tourmenteur-d'ame.webp",
+    "imagecharme" :"../image-charme/tourmenteur-d_ame.webp",
     "description" :"Réduis le coût des sorts liés à l’ÂME.",
     "emplacement" :2},
 
@@ -140,7 +140,7 @@
 
     {"id": 23,
     "nom": "Épines d'Agonie",
-    "imagecharme" :"../image-charme/epines-d'agonie.webp",
+    "imagecharme" :"../image-charme/epines-d_agonie.webp",
     "description" :"Lorsque le porteur subit des dégâts, libère des vignes épineuses qui blessent les ennemis proches.",
     "emplacement" :1},
 
@@ -218,13 +218,13 @@
 
     {"id": 36,
     "nom": "Forme d'Unn",
-    "imagecharme" :"../image-charme/forme-d'unn.webp",
+    "imagecharme" :"../image-charme/forme-d_unn.webp",
     "description" :"En canalisant l'ÂME, son porteur change de forme et peut se déplacer librement à travers les ennemis pour les éviter.",
     "emplacement" :2},
 
     {"id": 37,
     "nom": "Gloire du Maître d'Aiguillons",
-    "imagecharme" :"../image-charme/gloire-du-maitre-d'aiguillons.webp",
+    "imagecharme" :"../image-charme/gloire-du-maitre-d_aiguillons.webp",
     "description" :"Augmente la maîtrise des Arts de l'aiguillon, permettant de canaliser et de libérer leur puissance plus rapidement.",
     "emplacement" :1},
 
@@ -248,7 +248,7 @@
 
     {"id": 41,
     "nom": "L'héritier de Grimm",
-    "imagecharme" :"../image-charme/l'heritier-de-grimm.webp",
+    "imagecharme" :"../image-charme/l_heritier-de-grimm.webp",
     "description" :"Porté par ceux qui participent au Rituel de la Troupe Grimm. Le porteur doit chercher ceux de la race de Grimm et collecter leur flamme. Les flammes non-collectées apparaîtront sur la carte du porteur.",
     "emplacement" :2},
 
